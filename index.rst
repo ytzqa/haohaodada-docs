@@ -4,8 +4,6 @@
    :maxdepth: 2
    :glob:
 
-
-   example/index
    arduino/index
 
    
