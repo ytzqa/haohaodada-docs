@@ -15,3 +15,4 @@ nova模块说明
 	MQ3传感器模块说明.md
 	MQ7传感器模块说明.md
 	RGB灯带模块说明.md
+	RGB模块说明.md
