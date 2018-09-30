@@ -5,6 +5,6 @@
    :glob:
 
    arduino/index
-   nova/index
+
 
    
