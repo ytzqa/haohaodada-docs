@@ -1,4 +1,4 @@
-# Nduino HD主板说明  
+# Nduino HD主板说明
 
 ## 概述
 
