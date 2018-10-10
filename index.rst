@@ -7,5 +7,17 @@
    arduino/index
    nova/index
    moon/index
+   Scratch传感器板/index
+   wulink/index
+   wulink-nano/index
+   wulink-core/index
+   PythonBoard/index
+   haoda-core/index
+   编程软件说明/index
+   micropython语法/index
+   Arduino语法/index
+   Scratch语法/index
+   
+   
 
    
