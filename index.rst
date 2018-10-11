@@ -6,7 +6,6 @@
 
    arduino/index
    nova/index
-   moon/index
    Scratch传感器板/index
    wulink/index
    wulink-nano/index
@@ -17,6 +16,7 @@
    micropython语法/index
    Arduino语法/index
    Scratch语法/index
+   moon/index
    
    
 
