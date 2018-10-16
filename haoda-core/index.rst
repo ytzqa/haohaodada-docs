@@ -1,4 +1,4 @@
-haoda-core说明
+HaoDa-Core说明
 ====================
 
 
