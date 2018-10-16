@@ -3,19 +3,20 @@
 .. toctree::
    :maxdepth: 2
    :glob:
-
-   arduino/index
-   nova/index
+   
+   开源课程/index
+   编程软件说明/index 
    Scratch传感器板/index
-   wulink/index
-   wulink-nano/index
-   wulink-core/index
+   Nova/index
+   Arduino/index
+   WU-Link/index
+   Wulink-Nano/index
+   Wulink-Core/index
    PythonBoard/index
-   haoda-core/index
-   编程软件说明/index
-   micropython语法/index
-   Arduino语法/index
+   HaoDa-Core/index
    Scratch语法/index
+   Arduino语法/index
+   micropython语法/index
    moon/index
    
    
