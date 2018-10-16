@@ -1,7 +1,7 @@
 好好搭搭官方文档
 ====================
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :glob:
 
 
