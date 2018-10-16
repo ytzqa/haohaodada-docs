@@ -1,7 +1,7 @@
 单品说明资料
 ====================
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :glob:
 
 
