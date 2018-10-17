@@ -23,7 +23,6 @@
 
 
    编程软件说明/index
-   book/index
    Scratch传感器板/index
    nova/index
    arduino/index
