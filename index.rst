@@ -18,11 +18,12 @@
     GitHub: https://github.com/Haohaodada-official
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :glob:
 
 
    编程软件说明/index
+   开源课程/index
    Scratch传感器板/index
    nova/index
    arduino/index
