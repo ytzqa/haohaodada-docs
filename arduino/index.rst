@@ -12,3 +12,4 @@ Arduino模块说明
     LED灯模块说明.md
     RGB灯模块说明.md
     单按键模块说明.md
+	电位器模块说明.md
