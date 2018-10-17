@@ -1,26 +1,16 @@
-Scratch编程入门
+开源课程
 ====================
 
 
-
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
+   :maxdepth: 2
+   :glob:
 
-    01.md
-    02.md
-    03.md
-    04.md
-    05.md
-    06.md
-    07.md
-    08.md
-    09.md
-    10.md
-    a.md
-    b.md
-    c.md
-    d.md
-    e.md
- 
-    
+
+   Scratch编程入门/index
+
+
+   
+   
+
+   
