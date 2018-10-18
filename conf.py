@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = u'haohaodada docs'
-copyright = u'2018, haohaodada team'
-author = u'haohaodada team'
+copyright = u'2018, Haohaodada Team'
+author = u'Haohaodada Team'
 
 # The short X.Y version
 version = u''

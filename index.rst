@@ -22,7 +22,7 @@
     
     好好搭搭在线Scratch编程是基于MIT Scratch2.0，需要Flash支持，如果编程模板没有跳出Flash动画，请在浏览器里设置允许Flash。
     
-    ![](./plug-in/images/00.png)
+    .. image:: /plug-in/images/00.png
     
 
 .. toctree::
