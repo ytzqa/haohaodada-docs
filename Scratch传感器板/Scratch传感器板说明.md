@@ -23,6 +23,23 @@
 * 110x60x38mm
 * 工作电压：DC5V
 
+## 清单
+|序号|器材|数量|
+|-|-|-|
+|1|好搭Scratch传感器板|1|
+|2|Micro USB线|1|
+|3|说明书|1|
+|4|合格证|1|
+
+####hint类型的警告
+!!! hint "subject of hint"
+    Any number of other indented markdown elements.
+
+####note类型的警告
+!!! note "subject of note"
+    Any number of other indented markdown elements.
+
+
 ## 接口说明
 ![](./images/01.png)
 
@@ -59,7 +76,6 @@
 
 ![](./images/09.png)
 
-## 尺寸说明
 
 ## 常见问题
 
