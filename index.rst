@@ -22,7 +22,6 @@
    :glob:
 
 
-   编程软件说明/index
    book/index
    Scratch传感器板/index
    HaoDa-Box/index
