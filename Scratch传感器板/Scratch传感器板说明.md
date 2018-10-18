@@ -23,21 +23,19 @@
 * 110x60x38mm
 * 工作电压：DC5V
 
-## 清单
-|序号|器材|数量|
-|-|-|-|
-|1|好搭Scratch传感器板|1|
-|2|Micro USB线|1|
-|3|说明书|1|
-|4|合格证|1|
+  ```python
+        #!python
+        # -*- coding: utf-8 -*-
+        from flask import Flask, render_template
 
-####hint类型的警告
-!!! hint "subject of hint"
-    Any number of other indented markdown elements.
+        app = Flask(__name__)
+        app.debug = APP_DEBUG
 
-####note类型的警告
-!!! note "subject of note"
-    Any number of other indented markdown elements.
+        #homepage just for fun
+        @app.route('/')
+        def home():
+            return render_template('index.html')
+    ```
 
 
 ## 接口说明
