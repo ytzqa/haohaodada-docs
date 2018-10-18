@@ -19,7 +19,7 @@ LED灯模块根据输入信号的不同来点亮/熄灭LED，也可亮度调节�
 ## 示例代码
 
 ## 原理图
-![](./images/03.png)
+[LED模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/%E5%8E%9F%E7%90%86%E5%9B%BE/LED%E6%A8%A1%E5%9D%97.pdf)
 
 ## 尺寸说明
 ![](./images/01.png)

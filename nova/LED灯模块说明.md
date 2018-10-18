@@ -22,7 +22,7 @@ Nova的LED模块主要实现LED灯的亮度的控制。
 [LED模块示例代码 ](http://www.haohaodada.com/show.php?id=946933)
 
 ## 原理图
-![](./images/71.png)
+[LED模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/%E5%8E%9F%E7%90%86%E5%9B%BE/LED%E6%A8%A1%E5%9D%97.pdf)
 
 ## 尺寸说明
 ![](./images/72.png)
