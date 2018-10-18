@@ -25,7 +25,7 @@ mp3文件夹内部放置音乐，音乐文件后缀支持.mp3及.wav后缀名。
 [MP3音乐模块示例代码](http://www.haohaodada.com/show.php?id=947296)
 
 ## 原理图
-![](./images/79.png)
+[MP3音乐模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/%E5%8E%9F%E7%90%86%E5%9B%BE/MP3%E9%9F%B3%E4%B9%90%E6%A8%A1%E5%9D%97.pdf)
 
 ## 尺寸说明
 ![](./images/78.png)
