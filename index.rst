@@ -25,16 +25,11 @@
    编程软件说明/index
    book/index
    Scratch传感器板/index
+   HaoDa-Box/index
    nova/index
    arduino/index
    wulink/index
-   wulink-nano/index
-   wulink-core/index
    PythonBoard/index
-   haoda-core/index
-   Scratch语法/index
-   Arduino语法/index
-   micropython语法/index
    product/index
 
    
