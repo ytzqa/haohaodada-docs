@@ -3,23 +3,6 @@
 ``` important:: Its a note! in markdown!
 ```
 
-.. Hint::
-
-    技术问题欢迎在群里直接沟通。
-    
-    好好搭搭交流一群：346580874(满员)；
-    
-    好好搭搭交流二群：595508425；
-    
-    WU-Link应用群：656213711；
-    
-    爱上Nova：465403174
-    
-    官网：http://haohaodada.com
-    
-    GitHub: https://github.com/Haohaodada-official
-    
-    
 ## 概述
 好搭Scratch传感器板是，是一款可以让Scratch动画和各种传感器交互的硬件，做出更加生动有趣的互动动画项目。好搭Scratch传感器板是一个让孩子从Scratch动画编程过渡到Scratch硬件编程的桥梁。
 
