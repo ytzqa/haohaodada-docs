@@ -23,20 +23,6 @@
 * 110x60x38mm
 * 工作电压：DC5V
 
-  ```python
-        #!python
-        # -*- coding: utf-8 -*-
-        from flask import Flask, render_template
-
-        app = Flask(__name__)
-        app.debug = APP_DEBUG
-
-        #homepage just for fun
-        @app.route('/')
-        def home():
-            return render_template('index.html')
-    ```
-
 
 ## 接口说明
 ![](./images/01.png)
@@ -91,9 +77,10 @@ A：按顺序操作：
 
 （3）打开“在线编程插件”，点击“连接按钮”。
 
-
-为避免好好搭搭传感器板故障或损坏，请注意以下事项：
+## 注意事项
 
 1.在工作过程中，切勿使其接触水、湿气或放在导电表面上；
+
 2.好搭传感器板在室温下可正常工作，请勿靠近任何热源；
+
 3.为预防静电损坏，在冬天干燥环境下可先用手触摸金属物体释放人体静电。
