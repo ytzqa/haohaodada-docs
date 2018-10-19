@@ -26,7 +26,7 @@ LED具有低电压驱动，环保节能，亮度高，散射角度大，一致�
 [RGB模块示例代码](http://www.haohaodada.com/show.php?id=947337)
 
 ## 原理图
-![](./images/81.png)
+[RGB模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/%E5%8E%9F%E7%90%86%E5%9B%BE/RGB%E7%81%AF%E6%A8%A1%E5%9D%97.pdf)
 
 ## 尺寸说明
 ![](./images/80.png)
