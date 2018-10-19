@@ -15,8 +15,6 @@ MP3模块是一款可以播放歌曲的模块，采用语音芯片YX5200进行�
 ## 使用方式
 ![](./images/33.png)
 
-[nova制作控制mp3视频](http://www.haohaodada.com/art_show.php?id=149)
-
 SD 卡内部 mp3 文件设置：
 
 MP3 使用说明:
