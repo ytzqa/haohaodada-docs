@@ -29,12 +29,10 @@
    :maxdepth: 2
    :glob:
 
-   plug-in/index
-   book/index
-   Scratch传感器板/index
-   HaoDa-Box/index
+   
+   
    nova/index
-   arduino/index
+   
    wulink/index
    PythonBoard/index
    product/index
