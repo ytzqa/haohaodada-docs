@@ -35,7 +35,7 @@
 [UNO R3原版原理图](https://www.arduino.cc/en/uploads/Main/Arduino_Uno_Rev3-schematic.pdf)
 
 ## CAD尺寸
-[CAD尺寸](https://www.arduino.cc/en/uploads/Main/Arduino_Uno_Rev3-schematic.pdf)
+[CAD尺寸](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/arduino/pdf/ArduinoUno.dxf)
 
 ## 常见问题
 
