@@ -3,7 +3,7 @@
 ![](./images/uno.png)
 
 ## 概述
-针对国内实际情况，在Arduino UNO R3的基础上，优化了USB驱动芯片，解决了盗版系统驱动安装失败的问题。采用沉金工艺
+针对国内实际情况，在Arduino UNO R3的基础上，优化了USB驱动芯片，解决了盗版系统驱动安装失败的问题。采用沉金工艺，经久耐用，美观大方。
 
 ## 参数
 - 兼容Arduino UNO R3 板子
@@ -27,13 +27,15 @@
 
 
 ## 接口说明
-![](./images/pinout.png)
+![](./images/pinout.jpg)
 
 ## 使用方式
 
 ## 原理图
 [UNO R3原版原理图](https://www.arduino.cc/en/uploads/Main/Arduino_Uno_Rev3-schematic.pdf)
 
+## CAD尺寸
+[CAD尺寸](https://www.arduino.cc/en/uploads/Main/Arduino_Uno_Rev3-schematic.pdf)
 
 ## 常见问题
 
