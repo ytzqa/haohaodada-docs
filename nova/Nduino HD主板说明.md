@@ -31,9 +31,9 @@ Nova是一款专门面向少年儿童创客设计、开发的开源硬件，使�
 2.由电源适配器（9V1A）或外接电池（电压6V 以上）供电，红色端口的电源VE等于外接电源电压。
 
 ## 教程
-
+[NOVA标准课程教程](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/nova/pdf/NOVA%E6%A0%87%E5%87%86%E8%AF%BE%E7%A8%8B%E6%95%99%E7%A8%8B%EF%BC%88HD%E7%89%88%20%E7%AC%AC%E4%B8%80%E7%A8%BF%EF%BC%89.pdf)
 
 ## 原理图
-
+[Nduino HD原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/nova/pdf/02010002-Nduino%20HD.pdf)
 
 ## 常见问题
