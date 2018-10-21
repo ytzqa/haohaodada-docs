@@ -20,10 +20,10 @@ WU-Link 最大的亮点在于物联网相关的设置与通讯非常简单，让
 * 尺    寸：113x63x10mm。
 
 ## 扩展接口说明
-[WU-Link扩展接口说明](http://www.haohaodada.com/haohaodada_setup.exe) 
+[WU-Link扩展接口说明](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/wulink/pdf/WU-Link%E6%89%A9%E5%B1%95%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E.pdf) 
 
 ## 使用方式
-[WU-Link简易教程](http://www.haohaodada.com/haohaodada_setup.exe) 
+[WU-Link简易教程](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/wulink/pdf/WU-Link%E7%AE%80%E6%98%93%E6%95%99%E7%A8%8B.pdf) 
 
 ## 课程
 [WU-Link智能造物入门](http://doc.haohaodada.com/zh/latest/book/WU-Link%E6%99%BA%E8%83%BD%E9%80%A0%E7%89%A9%E5%85%A5%E9%97%A8/index.html) 
