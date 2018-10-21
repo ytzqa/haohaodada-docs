@@ -1,5 +1,5 @@
 # PythonBoard主板说明  
-![](./images/00.png)
+![](./images/a.png)
 
 ## 概述
 PythonBoard搭载一颗32位ARM芯片，主频168MHz。采用优盘下载模式。内置指南针、加速度、时钟、按键、8*24点阵、电机驱动、蜂鸣器、TF卡扩展口、锂电池充放电管理。
@@ -15,14 +15,14 @@ PythonBoard搭载一颗32位ARM芯片，主频168MHz。采用优盘下载模式�
 
 
 ## 接口说明
-![](./images/01.png)
+![](./images/b.png)
 
 ## 使用方式
 Step 1:连接
 
 用micro usb线把PythonBoard和电脑连接起来，支持Mac、Windows、Linux。
 
-![](./images/02.png)
+![](./images/c.png)
 
 你的电脑会显示一个叫“PythonBoard”的磁盘。
 
@@ -30,13 +30,13 @@ Step 2: 编程
 
 浏览器打开网址haohaodada.com/pythonboard。现在我们来写第一个程序。从左侧图形块菜单里找到我们第一个图形块“显示/屏幕显示字符串”，再从“文本”找到如图所示模块，然后写上“Hello World!”
 
-![](./images/03.png)
+![](./images/d.png)
 
 Step 3: 下载
 
 点击“下载程序”按钮，保存文件到“PythonBoard”的磁盘里。
 
-![](./images/04.png)
+![](./images/e.png)
 
 等待状态指示灯的红灯熄灭后，程序便会自动执行。你将看到点阵屏上会从右往左滚动显示 “Hello World！”。
 
