@@ -25,6 +25,9 @@ WU-Link 最大的亮点在于物联网相关的设置与通讯非常简单，让
 ## 使用方式
 [WU-Link简易教程](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/wulink/pdf/WU-Link%E7%AE%80%E6%98%93%E6%95%99%E7%A8%8B.pdf) 
 
+[WU-Link物联网套件教程-统稿](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/wulink/pdf/WU-Link%E7%89%A9%E8%81%94%E7%BD%91%E5%A5%97%E4%BB%B6%E6%95%99%E7%A8%8B-%E7%BB%9F%E7%A8%BF.pdf) 
+
+
 ## 课程
 [WU-Link智能造物入门](http://doc.haohaodada.com/zh/latest/book/WU-Link%E6%99%BA%E8%83%BD%E9%80%A0%E7%89%A9%E5%85%A5%E9%97%A8/index.html) 
 
