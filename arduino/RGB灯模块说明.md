@@ -16,6 +16,11 @@ RGB模块主要实现LED灯的各种颜色、亮度的控制，产生绚丽灯�
 ![](./images/04.png)
 
 ## 示例代码
+![](./images/71.png)
+
+![](./images/50.png)
+	
+[RGB灯模块示例代码](http://www.haohaodada.com/show.php?id=956133)
 
 ## 原理图
 [RGB模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/%E5%8E%9F%E7%90%86%E5%9B%BE/RGB%E7%81%AF%E6%A8%A1%E5%9D%97.pdf)

@@ -16,6 +16,9 @@ OLED模块是一款无需背景光源，自发光式的显示模块，可通过�
 ![](./images/26.png)
 
 ## 示例代码
+![](./images/49.png)
+	
+[OLED模块示例代码](http://www.haohaodada.com/show.php?id=956375)
 
 ## 原理图
 [OLED模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/%E5%8E%9F%E7%90%86%E5%9B%BE/OLED%E6%A8%A1%E5%9D%97.pdf)
